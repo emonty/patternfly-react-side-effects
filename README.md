@@ -16,8 +16,8 @@ This project currently supports Node [Active LTS](https://github.com/nodejs/Rele
 For example, to develop with Node 8, use the following:
 
 ```
-nvm install 10
-nvm use 10
+npm install 10
+npm use 10
 ```
 
 This project also requires a Yarn version of >=1.6.0. The latest version can be installed [here](https://yarnpkg.com/).
