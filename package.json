@@ -1,17 +1,17 @@
 {
-  "name": "patternfly-react",
+  "name": "@emonty/patternfly-react-side-effects",
   "version": "2.39.15",
   "private": false,
-  "description": "This library provides a set of common React components for use with the PatternFly reference implementation.",
+  "description": "TEMPORARY FORK This library provides a set of common React components for use with the PatternFly reference implementation.",
   "main": "dist/js/index.js",
   "module": "dist/esm/index.js",
-  "sideEffects": false,
+  "sideEffects": true,
   "publishConfig": {
     "access": "public"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/patternfly/patternfly-react.git"
+    "url": "https://github.com/emonty/patternfly-react-side-effects.git"
   },
   "keywords": [
     "react",
@@ -20,9 +20,9 @@
   "author": "Red Hat",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/patternfly/patternfly-react/issues"
+    "url": "https://github.com/emonty/patternfly-react-side-effects/issues"
   },
-  "homepage": "https://github.com/patternfly/patternfly-react#readme",
+  "homepage": "https://github.com/emonty/patternfly-react-side-effects#readme",
   "dependencies": {
     "bootstrap-slider-without-jquery": "^10.0.0",
     "breakjs": "^1.0.0",

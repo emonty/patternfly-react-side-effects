@@ -1,4 +1,9 @@
-# patternfly-react
+# patternfly-react-side-efects
+
+THIS IS A TEMPORARY FORK OF patternfly-react v3
+
+This is only here until https://github.com/patternfly/patternfly-react/pull/4267 lands
+and is released. It sets ```sideEffects: true```
 
 This package provides Core PatternFly React components for PatternFly 3.
 
